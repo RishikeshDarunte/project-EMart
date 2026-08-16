@@ -12,6 +12,44 @@ A comprehensive full-stack e-commerce web application built as a CDAC major proj
 - **Order Management** - Track orders and download invoices
 - **Admin Dashboard** - Manage products, users, and orders
 
+---
+
+## 📸 Screenshots
+
+### 🛒 Promotional Products
+![Promotions](Screenshots/PromotionalProducts.png)
+*Exclusive deals and promotional items*
+
+### 🏠 Product Catalog
+![Product Catalog](Screenshots/SomeProducts.png)
+*Browse our collection of products across various categories*
+
+### 💰 e-Mart Card (Loyalty Program)
+![e-Mart Card](Screenshots/EMcard.png)
+*Earn reward points on every purchase and redeem for discounts*
+
+### 🛍️ Checkout Process
+![Checkout Flow](Screenshots/Checkout.png)
+*Easy multi-step checkout with delivery address selection*
+
+### 💳 Payment Gateway
+![Payment Method](Screenshots/Payment.png)
+*Secure payment options including cards, UPI, and wallet*
+
+### ✅ Order Confirmation
+![Order Confirmed](Screenshots/OrderConfirmed.png)
+*Order successfully placed with confirmation details and e-Points earned*
+
+### 📦 Order Tracking
+![Order History](Screenshots/Orders.png)
+*View all your orders and track their status*
+
+### 📄 Invoice & Tax Receipt
+![Invoice](Screenshots/Invoice.png)
+*Download tax invoices for your purchases*
+
+---
+
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
@@ -32,6 +70,7 @@ project-EMart/
 ├── Java Project V1.7/
 │   ├── backend-spring/       # Spring Boot Backend
 │   └── frontend-react/       # React.js Frontend
+├── Screenshots/              # Application screenshots
 └── README.md
 ```
 
