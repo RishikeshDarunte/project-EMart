@@ -164,12 +164,5 @@ REACT_APP_API_URL=http://localhost:8080 npm start
 
 **Rishikesh Darunte**
 - GitHub: [@RishikeshDarunte](https://github.com/RishikeshDarunte)
-- Email: rishidarunte55@gmail.com
+- Email: rishikeshdarunte55@gmail.com
 
-## 📄 License
-
-MIT License - See LICENSE file for details
-
----
-
-**Ready to shop? Visit: http://localhost:3000** 🚀
