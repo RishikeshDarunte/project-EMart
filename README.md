@@ -10,7 +10,6 @@ A comprehensive full-stack e-commerce web application built as a CDAC major proj
 - **Payment Gateway** - Razorpay integration for multiple payment methods
 - **e-Mart Card** - Loyalty program with reward points and cashback
 - **Order Management** - Track orders and download invoices
-- **Admin Dashboard** - Manage products, users, and orders
 
 ---
 
