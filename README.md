@@ -163,5 +163,4 @@ REACT_APP_API_URL=http://localhost:8080 npm start
 
 **Rishikesh Darunte**
 - GitHub: [@RishikeshDarunte](https://github.com/RishikeshDarunte)
-- Email: rishikeshdarunte55@gmail.com
 
